@@ -102,3 +102,8 @@ optusnet.com.au
 gamer.com.tw
 bahamut.com.tw
 hinet.net
+dssott.com.akamaized.net
+go-mpulse.net
+disneynow.com
+search-api-disney.bamgrid.com
+optimizely.com
